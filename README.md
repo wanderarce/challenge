@@ -18,6 +18,7 @@
 		
 ### Intruções para execução
 
+	* H2 file: spring.datasource.url=jdbc:h2:file:C:/temp/test (Utilizei Windows)
 	* Execução do projeto pelo Spring Tools Suite: Importar o projeto e executar a Class ChallengeApplication disponibilizada no pacote br.com.wander.meta.challenge;
 	* Execução via terminal: navegar até a pasta do projeto e exceutar o cmd mvnw spring-boot:run
 	
